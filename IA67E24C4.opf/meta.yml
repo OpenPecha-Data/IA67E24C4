@@ -1,0 +1,37 @@
+id: IA67E24C4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T21:00:47.348539'
+last_modified: '2022-06-18T21:00:47.348571'
+parser: null
+source_metadata:
+  title: The Great Religious History by Sa skya paṇḍi ta (1182–1251)
+  author: ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-01-18);
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (pts)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4640
+  bases:
+    a124:
+      title: The Great Religious History by Sa skya paṇḍi ta (1182–1251)
+      order: 1
+      base_file: a124.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
